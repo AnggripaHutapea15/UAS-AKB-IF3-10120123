@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">10120123-Anggripa</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="Login">Login</string>
+    <string name="register">register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="clik_to_register">Clik to Register</string>
+    <string name="logout">Logout</string>
+</resources>
